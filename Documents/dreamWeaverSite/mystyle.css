@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: gray;
+}
+h1 {
+    color: black;
+    font-size: 40px;
+	text-align: center;
+}
+h2 {
+	color: black;
+	font-size: 30px;
+	text-align: left;
+}
+h3 {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+h4 {
+	color: black;
+	font-size: 12px;
+	text-align: center;
+}
+p {
+	color: black;
+	font-size: 18px;
+	text-align: left;
+}
+footer {
+	position: static;
+	padding-top: 10px;
+	clear: both;
+}
